@@ -1,0 +1,41 @@
+body{
+    background-color:bisque
+}
+.ahlame{
+    border:dashed; 
+    border: color-mix(in srgb, color percentage, color percentage);
+    margin: auto;
+    padding: 50px;
+    background-color: beige;
+}
+#adam{
+    display: block;
+    background-color: beige;}
+#welcom{
+    border:double;
+    border: 100px; 
+   background-color: rgb(48, 46, 156);
+    padding: move;
+    width: 100PX;
+    height: 100PX;
+    text-align: center;
+    }
+    .projet{
+        border: double ; color:rgb(53, 53, 184);
+        background-color: rgb(133, 213, 233);
+        border-radius: 100px ;
+        text-align: center;
+     }
+     .contract{
+        display:inline-block}
+        #identif{ 
+            border: solid;color: black;
+            background-color:rgb(103, 190, 212);
+            -webkit-column-width: auto;
+         }
+        #co1{  border: solid;color: black;
+            background-color:rgb(103, 190, 212);}
+        #co2{ border: solid;color: black;
+            background-color:rgb(103, 190, 212);}
+        #conc{ border: solid;color: black;
+            background-color:rgb(103, 190, 212);}
